@@ -1,6 +1,27 @@
 # 💫 About Me:
-<br>🎓 I’m a B.Tech CSE (AI) Student  a strong focus on Artificial Intelligence<br>🤖 AI & ML Enthusiast | Python Developer | Frontend Developer<br><br>I’m passionate about building intelligent, data-driven systems and scalable web applications. I enjoy solving real-world problems by combining strong fundamentals with clean, efficient code.<br><br>🚀 What I Do :<br><br>🧠 Machine Learning & Data Analytics<br><br>💡 Data Structures & Algorithms<br><br>🌐 Full-Stack Web Development<br><br>🌱 Currently Exploring<br><br>🔬 Deep Learning<br><br>🏗️ System Design Fundamentals<br><br>⚡ Advanced DSA & Modern Web Technologies<br><br>🤝 Open to collaboration on innovative projects, hackathons, and impactful tech solutions.<br>.<br>
-## 🌐 Socials:
+<p>🎓 <strong>B.Tech CSE (AI) Student</strong></p>
+
+<p>🤖 <strong>AI & ML Enthusiast | Python Developer | Frontend Developer</strong></p>
+
+<p>
+I’m passionate about building intelligent, data-driven systems and scalable web applications.
+I enjoy solving real-world problems by combining strong fundamentals with clean, efficient code.
+</p>
+
+<p><strong>Do</strong></p>
+
+<p>
+🧠 Machine Learning &amp; Data Analytics<br>
+💡 Data Structures &amp; Algorithms<br>
+🌐 Full-Stack Web Development<br>
+🔬 Deep Learning<br>
+🏗️ System Design Fundamentals<br>
+⚡ Advanced DSA &amp; Modern Web Technologies
+</p>
+
+<p>
+🤝 Open to collaboration on innovative projects, hackathons, and impactful tech solutions.
+</p>
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Sugata Nayak) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nayak_sugata) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sugata-nayak-343099322) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Sugata Nayak) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sugatanayak65@gmail.com) 
 
 # 💻 Tech Stack:
