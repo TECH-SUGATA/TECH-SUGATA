@@ -1,3 +1,4 @@
+! [logo] (https://github.com/TECH-SUGATA/TECH-SUGATA/commit/4140aee796d67d2cc254b039fbf3fbd2301f6063)
 # 💫 About Me:
 <p>🎓 <strong>B.Tech CSE (AI) Student</strong></p>
 
