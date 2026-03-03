@@ -1,4 +1,6 @@
-! [logo] (https://github.com/TECH-SUGATA/TECH-SUGATA/commit/4140aee796d67d2cc254b039fbf3fbd2301f6063)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/TECH-SUGATA/TECH-SUGATA/main/vecteezy_battery-carbon-lithium-power-transportation-background_2017134.gif" width="100%" alt="TECH-SUGATA Animation">
+</p>
 # 💫 About Me:
 <p>🎓 <strong>B.Tech CSE (AI) Student</strong></p>
 
