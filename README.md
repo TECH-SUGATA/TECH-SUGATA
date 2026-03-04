@@ -4,7 +4,7 @@
 # 💫 About Me:
 <p>🎓 <strong>B.Tech CSE (AI) Student</strong></p>
 
-<p>🤖 <strong>AI & ML Enthusiast | Python Developer | Frontend Developer</strong></p>
+<p>🤖 <strong> 🎓 B.Tech CSE (AI)/🤖 AI & ML Enthusiast | 💻 Frontend Developer | 🐍 Python Programmer | 🧠 DSA | 🌐 Web Development | 🚀 Hackathon Participant | 📊 Data Analytics | 💡 Building Intelligent & Scalable Digital Solution </strong></p>
 
 <p>
 I’m passionate about building intelligent, data-driven systems and scalable web applications.
@@ -17,6 +17,7 @@ I enjoy solving real-world problems by combining strong fundamentals with clean,
 🧠 Machine Learning &amp; Data Analytics<br>
 💡 Data Structures &amp; Algorithms<br>
 🌐 Full-Stack Web Development<br>
+💻 Frontend Developer<br>
 🔬 Deep Learning<br>
 🏗️ System Design Fundamentals<br>
 ⚡ Advanced DSA &amp; Modern Web Technologies
