@@ -2,12 +2,6 @@
   <img src="https://raw.githubusercontent.com/TECH-SUGATA/TECH-SUGATA/main/vecteezy_battery-carbon-lithium-power-transportation-background_2017134.gif" width="100%" alt="TECH-SUGATA Animation">
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/TECH-SUGATA/TECH-SUGATA/main/
-vecteezy_technology-background-4k_21259185.gif" width="100%" alt="TECH-SUGATA Animation">
-</p>
-
-
 # 💫 About Me:
 <p>🎓 <strong>B.Tech CSE (AI) Student</strong></p>
 
