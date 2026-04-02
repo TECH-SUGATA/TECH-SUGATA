@@ -29,7 +29,7 @@ I enjoy solving real-world problems by combining strong fundamentals with clean,
 </p>
 
  <p>
-  <a href="https://facebook.com/SugataNayak" target="_blank">
+  <a href="[https://facebook.com/SugataNayak](https://www.facebook.com/share/1GimdSBbSc/)" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
   
