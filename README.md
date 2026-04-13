@@ -61,31 +61,22 @@ I enjoy solving real-world problems by combining strong fundamentals with clean,
 
 <div align="center">
 
-<!-- Main Styled Card -->
 <img src="https://streak-stats.demolab.com?user=TECH-SUGATA&theme=dark&background=0D1117&border=30363D&ring=58A6FF&fire=F2C94C&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E&sideNums=58A6FF&currStreakNum=58A6FF&border_radius=12&card_width=650"/>
 
 <br/><br/>
 
-<!-- Divider Line -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=30363D&height=2&section=header"/>
-
-<br/>
-
-<!-- Connect Section -->
-<h3 style="color:#c9d1d9;">Connect with me</h3>
-
-<p align="center">
+<h3>Connect with me</h3>
 
 <a href="mailto:sugatanayak65@gmail.com">
-  <img src="https://img.icons8.com/color/48/gmail-new.png"/>
+  <img src="https://img.icons8.com/color/48/gmail-new.png" height="45"/>
 </a>
 
 <a href="https://www.linkedin.com/in/sugata-nayak-343099322">
-  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="45"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height="45"/>
 </a>
 
 <a href="https://wa.me/919883131330">
-  <img src="https://img.icons8.com/color/48/whatsapp--v1.png"/>
+  <img src="https://img.icons8.com/color/48/whatsapp--v1.png" height="45"/>
 </a>
 
 <a href="https://g.dev/devsugata">
@@ -93,17 +84,16 @@ I enjoy solving real-world problems by combining strong fundamentals with clean,
 </a>
 
 <a href="https://www.instagram.com/nayak_sugata">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="45"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" height="45"/>
 </a>
 
 <a href="https://github.com/TECH-SUGATA">
-  <img src="https://img.icons8.com/ios-glyphs/50/ffffff/github.png" width="45"/>
+  <img src="https://img.icons8.com/ios-glyphs/50/ffffff/github.png" height="45"/>
 </a>
 
-</p>
+<br/><br/>
+
+<!-- Visitor Count -->
+[![](https://visitcount.itsvg.in/api?id=TECH-SUGATA&label=Profile%20Views&icon=5&color=12)](https://visitcount.itsvg.in)
 
 </div>
----
-[![](https://visitcount.itsvg.in/api?id=TECH-SUGATA&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
