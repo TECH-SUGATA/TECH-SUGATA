@@ -4,24 +4,25 @@
 
 # 💫 About Me:
 
-👨‍💻 Sugata Nayak  
-### 🚀 Full Stack Developer | 🤖 AI & ML Engineer  
+<!-- 🔥 INSANE HEADER START -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;AI+%26+ML+Engineer;Cloud+Enthusiast;Building+Scalable+Systems&center=true&width=600&height=50">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Sugata%20Nayak&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 </p>
 
 <p align="center">
-  <a href="https://tech-sugata.github.io/PORTFOLIO/">
-    <img src="https://img.shields.io/badge/🌐 Portfolio-Live-blue?style=for-the-badge">
-  </a>
-  <a href="https://github.com/tech-sugata">
-    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github">
-  </a>
-  <a href="https://www.linkedin.com/in/sugata-deb-a10a2b46">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=🚀+Full+Stack+Developer;🤖+AI+%26+ML+Engineer;☁️+Cloud+Enthusiast;💡+Building+Scalable+Systems&center=true&width=650&height=50&duration=2500&pause=1000">
 </p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Full%20Stack-Developer-blue?style=for-the-badge&logo=github">
+  <img src="https://img.shields.io/badge/AI%20%26%20ML-Engineer-purple?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Cloud-AWS-black?style=for-the-badge&logo=amazonaws">
+</p>
+
+<!-- 🔥 INSANE HEADER END -->
+
+
 
 ---
 
