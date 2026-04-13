@@ -80,7 +80,7 @@ I enjoy solving real-world problems by combining strong fundamentals with clean,
 </a>
 
 <a href="https://g.dev/devsugata">
-  <img src="https://developers.google.com/community/gdg/images/logo-lockup-gdg-horizontal.png" height="40"/>
+  <img src="https://images.openai.com/static-rsc-4/a1ypCshSRxxMpn50xcHwmUlZFu_phdfei7QZ72UIiEJ8ZAJ7uFFZ4uXIMHWXgFeMu2or4-MXv9wYEBSVmBtrYyMM8G2nKlJn5rx0E0AR7IRh-ZULwkNqzFVepqupgMIYBHAsNHm96f_LYyfFas9dMgDtRjt2s73UMZqSxhPVf7c?purpose=inline" height="40"/>
 </a>
 
 <a href="https://www.instagram.com/nayak_sugata">
@@ -94,6 +94,8 @@ I enjoy solving real-world problems by combining strong fundamentals with clean,
 <br/><br/>
 
 <!-- Visitor Count -->
+<div align="center">
+
 [![](https://visitcount.itsvg.in/api?id=TECH-SUGATA&label=Profile%20Views&icon=5&color=12)](https://visitcount.itsvg.in)
 
 </div>
