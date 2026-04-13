@@ -3,29 +3,38 @@
 </p>
 
 # 💫 About Me:
-<p>🎓 <strong>B.Tech CSE (AI) Student</strong></p>
 
-<p>🤖 <strong> 🎓 B.Tech CSE (AI)/🤖 AI & ML Enthusiast | 💻 Frontend Developer | 🐍 Python Programmer | 🧠 DSA | 🌐 Web Development | 🚀 Hackathon Participant | 📊 Data Analytics | 💡 Building Intelligent & Scalable Digital Solution </strong></p>
+👨‍💻 Sugata Nayak  
+### 🚀 Full Stack Developer | 🤖 AI & ML Engineer  
 
-<p>
-I’m passionate about building intelligent, data-driven systems and scalable web applications.
-I enjoy solving real-world problems by combining strong fundamentals with clean, efficient code.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;AI+%26+ML+Engineer;Cloud+Enthusiast;Building+Scalable+Systems&center=true&width=600&height=50">
 </p>
 
-<p><strong>Do</strong></p>
-
-<p>
-🧠 Machine Learning &amp; Data Analytics<br>
-💡 Data Structures &amp; Algorithms<br>
-🌐 Full-Stack Web Development<br>
-💻 Frontend Developer<br>
-🔬 Deep Learning<br>
-🏗️ System Design Fundamentals<br>
-⚡ Advanced DSA &amp; Modern Web Technologies
+<p align="center">
+  <a href="https://tech-sugata.github.io/PORTFOLIO/">
+    <img src="https://img.shields.io/badge/🌐 Portfolio-Live-blue?style=for-the-badge">
+  </a>
+  <a href="https://github.com/tech-sugata">
+    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github">
+  </a>
+  <a href="https://www.linkedin.com/in/sugata-deb-a10a2b46">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
+  </a>
 </p>
 
-<p>
+---
+
+## 🧠 About Me
+
+💡 Passionate about building **scalable, intelligent, and high-performance applications**
+
+- 💻 Full Stack Development (MERN Stack)  
+- 🤖 AI & Machine Learning Projects  
+- ☁️ Cloud & System Design Enthusiast  
+- 🚀 Focused on real-world impactful solutions  
 🤝 Open to collaboration on innovative projects, hackathons, and impactful tech solutions.
+
 </p>
 
  <p>
@@ -92,6 +101,40 @@ I enjoy solving real-world problems by combining strong fundamentals with clean,
 </a>
 
 <br/><br/>
+
+
+---
+
+## ⭐ Support
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=tech-sugata&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="profile views"/>
+</p>
+
+<p align="center">
+  <a href="https://github.com/tech-sugata/PORTFOLIO">
+    <img src="https://img.shields.io/github/stars/tech-sugata/PORTFOLIO?style=for-the-badge&color=yellow" alt="stars"/>
+  </a>
+  <a href="https://github.com/tech-sugata/PORTFOLIO/fork">
+    <img src="https://img.shields.io/github/forks/tech-sugata/PORTFOLIO?style=for-the-badge&color=blue" alt="forks"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/tech-sugata/PORTFOLIO">
+    <img src="https://img.shields.io/badge/⭐ Star%20This%20Repo-Support%20the%20Project-ffdd00?style=for-the-badge&logo=github">
+  </a>
+</p>
+
+<p align="center">
+  💙 If you like this project, give it a ⭐ and support the journey!
+</p>
+
+<p align="center">
+  🚀 Your support helps in building more innovative and impactful projects!
+</p>
+
+---
 
 <!-- Visitor Count -->
 <div align="center">
