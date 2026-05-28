@@ -76,14 +76,18 @@
 
 </div>
 
-<!-- ===================== GitHub Achievements ===================== -->
+---
 
 ## 🏆 GitHub Achievements
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=TECH-SUGATA&theme=tokyonight" />
-</p>
-```
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=TECH-SUGATA&theme=tokyonight" />
+
+</div>
+
+---
+
 
 
 <!-- ============================================================= -->
