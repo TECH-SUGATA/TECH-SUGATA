@@ -74,11 +74,20 @@
 <img src="https://streak-stats.demolab.com?user=TECH-SUGATA&theme=dark&background=0D1117&border=30363D&ring=58A6FF&fire=F2C94C&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E&sideNums=58A6FF&currStreakNum=58A6FF&border_radius=12&card_width=650"/>
 
 
-## 🏆 GitHub Achievements
+<!-- 🏆 GitHub Achievements Section -->
+
+<h2 align="center">🏆 GitHub Achievements</h2>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tech-sugata&theme=tokyonight&no-frame=true&margin-w=10&row=1">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=TECH-SUGATA&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&margin-h=12&row=1&column=6"
+    alt="GitHub Achievements"
+    width="100%"
+  />
 </p>
+
+---
+
 
 ---
 <br/><br/>
