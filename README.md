@@ -75,18 +75,10 @@
 
 
 <!-- ===================== GitHub Achievements ===================== -->
-
-🏆 GitHub Achievements
-
+## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TECH-SUGATA&show_icons=true&theme=tokyonight" height="180em"/>
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TECH-SUGATA&theme=tokyonight" height="180em"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TECH-SUGATA&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=TECH-SUGATA&show_icons=true&theme=tokyonight" />
 </p>
 
 <!-- ============================================================= -->
