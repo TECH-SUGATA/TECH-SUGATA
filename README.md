@@ -1,5 +1,3 @@
-📈 Contribution Pulse
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/TECH-SUGATA/TECH-SUGATA/main/vecteezy_battery-carbon-lithium-power-transportation-background_2017134.gif" width="100%" alt="TECH-SUGATA Animation">
 </p>
@@ -34,6 +32,13 @@
 
 <br/>
 
+<!-- ✨ premium divider -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:667eea,100:0D1117&height=2" width="100%" alt="divider"/>
+</div>
+
+<br/>
+
 <!-- ═══════════════════════ ABOUT ═══════════════════════ -->
 ## 👨‍💻 &nbsp;About Me
 
@@ -58,6 +63,13 @@ open_to:     Collaboration · Hackathons · Impactful tech solutions
 |:---:|:---:|:---:|:---:|
 | Accuracy of the UrbanNoiseNet audio classifier | Audio samples used to train it from scratch | Projects built across AI, Web and IoT | Microsoft certifications and badges |
 
+</div>
+
+<br/>
+
+<!-- ✨ premium divider -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:58A6FF,100:0D1117&height=2" width="100%" alt="divider"/>
 </div>
 
 <br/>
@@ -119,6 +131,13 @@ open_to:     Collaboration · Hackathons · Impactful tech solutions
 
 <br/>
 
+<!-- ✨ premium divider -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:F2C94C,100:0D1117&height=2" width="100%" alt="divider"/>
+</div>
+
+<br/>
+
 <!-- ═══════════════════════ PROJECTS ═══════════════════════ -->
 ## 🚀 &nbsp;Featured Projects
 
@@ -162,6 +181,13 @@ open_to:     Collaboration · Hackathons · Impactful tech solutions
 
 <br/>
 
+<!-- ✨ premium divider -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:667eea,100:0D1117&height=2" width="100%" alt="divider"/>
+</div>
+
+<br/>
+
 <!-- ═══════════════════════ GRAPHS ═══════════════════════ -->
 ## 📊 &nbsp;GitHub Analytics
 
@@ -188,6 +214,14 @@ open_to:     Collaboration · Hackathons · Impactful tech solutions
 
 <br/>
 
+### 📈 Contribution Pulse
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TECH-SUGATA&bg_color=0D1117&color=58A6FF&line=667eea&point=F2C94C&area=true&area_color=667eea&hide_border=true&radius=12&custom_title=Contribution%20Pulse%20%E2%80%A2%20Last%2031%20Days" width="100%" alt="Contribution Pulse"/>
+</div>
+
+<br/>
+
 ### 🐍 Contribution Snake
 
 <div align="center">
@@ -196,6 +230,13 @@ open_to:     Collaboration · Hackathons · Impactful tech solutions
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TECH-SUGATA/TECH-SUGATA/output/github-snake.svg"/>
     <img alt="Contribution snake" src="https://raw.githubusercontent.com/TECH-SUGATA/TECH-SUGATA/output/github-snake-dark.svg"/>
   </picture>
+</div>
+
+<br/>
+
+<!-- ✨ premium divider -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:58A6FF,100:0D1117&height=2" width="100%" alt="divider"/>
 </div>
 
 <br/>
@@ -211,6 +252,13 @@ open_to:     Collaboration · Hackathons · Impactful tech solutions
 <br/>
 <a href="https://www.credly.com/badges/9f6c2b78-a5a1-4dd4-b637-8e9fb990a793/public_url"><img src="https://img.shields.io/badge/Credly-AI%20Skills%20Fest%202026%20%E2%80%94%20Microsoft-FF6B00?style=for-the-badge&logo=credly&logoColor=white&labelColor=161B22"/></a>
 
+</div>
+
+<br/>
+
+<!-- ✨ premium divider -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:F2C94C,100:0D1117&height=2" width="100%" alt="divider"/>
 </div>
 
 <br/>
