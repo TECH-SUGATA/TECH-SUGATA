@@ -2,167 +2,235 @@
   <img src="https://raw.githubusercontent.com/TECH-SUGATA/TECH-SUGATA/main/vecteezy_battery-carbon-lithium-power-transportation-background_2017134.gif" width="100%" alt="TECH-SUGATA Animation">
 </p>
 
-# 💫 About Me:
-
-<!-- 🔥 INSANE HEADER START -->
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Sugata%20Nayak&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=🚀+Full+Stack+Developer;🤖+AI+%26+ML+Engineer;☁️+Cloud+Enthusiast;💡+Building+Scalable+Systems&center=true&width=650&height=50&duration=2500&pause=1000">
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Full%20Stack-Developer-blue?style=for-the-badge&logo=github">
-  <img src="https://img.shields.io/badge/AI%20%26%20ML-Engineer-purple?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Cloud-AWS-black?style=for-the-badge&logo=amazonaws">
-</p>
-
-<!-- 🔥 INSANE HEADER END -->
-
-
-
----
-
-## 🧠 About Me
-
-💡 Passionate about building **scalable, intelligent, and high-performance applications**
-
-- 💻 Full Stack Development (MERN Stack)  
-- 🤖 AI & Machine Learning Projects  
-- ☁️ Cloud & System Design Enthusiast  
-- 🚀 Focused on real-world impactful solutions  
-🤝 Open to collaboration on innovative projects, hackathons, and impactful tech solutions.
-
-</p>
-
- <p>
-  <a href="https://www.facebook.com/share/1GimdSBbSc/" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-  </a>
-  
-  <a href="https://instagram.com/nayak_sugata" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  
-  <a href="https://linkedin.com/in/sugata-nayak-343099322" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  
-  <a href="https://mastodon.social/@SugataNayak" target="_blank">
-    <img src="https://img.shields.io/badge/Mastodon-2B90D9?style=for-the-badge&logo=mastodon&logoColor=white" />
-  </a>
-  
-  <a href="mailto:sugatanayak65@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
-<!-- Snake Game Repo View -->
-
-
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
-
-
-
-# 📊 Github Stats :
-
+<!-- ═══════════════════════ HEADER ═══════════════════════ -->
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=TECH-SUGATA&theme=dark&background=0D1117&border=30363D&ring=58A6FF&fire=F2C94C&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E&sideNums=58A6FF&currStreakNum=58A6FF&border_radius=12&card_width=650"/>
-
-</div>
-
----
-
-## 🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=TECH-SUGATA&theme=tokyonight" />
-
-</div>
-
-<!-- ============================================================= -->
-
----
-
-<br/><br/>
-
-<div align="center">
-
-<h3>Connect with me</h3>
-
-<a href="mailto:sugatanayak65@gmail.com">
-  <img src="https://img.icons8.com/color/48/gmail-new.png" height="45"/>
-</a>
-
-<a href="https://www.linkedin.com/in/sugata-nayak-343099322">
-  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height="45"/>
-</a>
-
-<a href="https://wa.me/919883131330">
-  <img src="https://img.icons8.com/color/48/whatsapp--v1.png" height="45"/>
-</a>
-
-<a href="https://g.dev/devsugata">
-  <img src="https://images.openai.com/static-rsc-4/a1ypCshSRxxMpn50xcHwmUlZFu_phdfei7QZ72UIiEJ8ZAJ7uFFZ4uXIMHWXgFeMu2or4-MXv9wYEBSVmBtrYyMM8G2nKlJn5rx0E0AR7IRh-ZULwkNqzFVepqupgMIYBHAsNHm96f_LYyfFas9dMgDtRjt2s73UMZqSxhPVf7c?purpose=inline" height="40"/>
-</a>
-
-<a href="https://www.instagram.com/nayak_sugata">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" height="45"/>
-</a>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D1117,50:1f2a44,100:667eea&height=260&section=header&text=SUGATA%20NAYAK&fontSize=62&fontColor=ffffff&fontAlignY=42&desc=AI%20Engineer%20%E2%80%A2%20Full-Stack%20Developer%20%E2%80%A2%20Open-Source%20Contributor&descSize=17&descAlignY=64&animation=fadeIn" width="100%" alt="Sugata Nayak"/>
 
 <a href="https://github.com/TECH-SUGATA">
-  <img src="https://img.icons8.com/ios-glyphs/50/ffffff/github.png" height="45"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=760&height=50&lines=Shipping+end-to-end+ML+systems;Full-Stack+%7C+React+%7C+FastAPI+%7C+Node.js;Computer+Vision+%C2%B7+NLP+%C2%B7+LLM+Apps+%C2%B7+IoT;Microsoft+Certified%3A+Azure+AI+Apps+%26+Agents+Developer" alt="Typing animation"/>
 </a>
 
-</div>
+<br/>
+
+<img src="https://img.shields.io/badge/Kolkata%2C%20India-0D1117?style=for-the-badge&logo=googlemaps&logoColor=58A6FF&labelColor=161B22"/>
+<img src="https://img.shields.io/badge/Institute%20of%20Engineering%20Management-0D1117?style=for-the-badge&logo=educative&logoColor=F2C94C&labelColor=161B22"/>
+<img src="https://img.shields.io/badge/Open%20to-Collaboration%20%26%20Hackathons-2EA043?style=for-the-badge&labelColor=161B22"/>
 
 <br/><br/>
 
----
+<a href="https://linkedin.com/in/sugata-nayak-343099322"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:sugatanayak65@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/TECH-SUGATA/PORTFOLIO"><img src="https://img.shields.io/badge/Portfolio-667eea?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+<a href="https://wa.me/919883131330"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+<a href="https://instagram.com/nayak_sugata"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://mastodon.social/@SugataNayak"><img src="https://img.shields.io/badge/Mastodon-6364FF?style=for-the-badge&logo=mastodon&logoColor=white"/></a>
+<a href="https://g.dev/devsugata"><img src="https://img.shields.io/badge/Google%20Dev-4285F4?style=for-the-badge&logo=google&logoColor=white"/></a>
+<!-- Add your LeetCode: <a href="https://leetcode.com/u/YOUR_USERNAME"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a> -->
 
+</div>
 
+<br/>
 
-## ⭐ Support
+<!-- ═══════════════════════ ABOUT ═══════════════════════ -->
+## 👨‍💻 &nbsp;About Me
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tech-sugata&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="profile views"/>
-</p>
+```yaml
+name:        Sugata Nayak
+role:        AI Engineer · Full-Stack Developer · Open-Source Contributor
+education:   Institute of Engineering Management, Kolkata
+certified:   Microsoft Certified — Azure AI Apps and Agents Developer Associate
+builds:      End-to-end ML systems, real-time dashboards, LLM apps, IoT + web pipelines
+philosophy:  Ship deployed systems, not UI mockups
+open_to:     Collaboration · Hackathons · Impactful tech solutions
+```
 
-<p align="center">
-  <a href="https://github.com/tech-sugata/PORTFOLIO">
-    <img src="https://img.shields.io/github/stars/tech-sugata/PORTFOLIO?style=for-the-badge&color=yellow" alt="stars"/>
-  </a>
-  <a href="https://github.com/tech-sugata/PORTFOLIO/fork">
-    <img src="https://img.shields.io/github/forks/tech-sugata/PORTFOLIO?style=for-the-badge&color=blue" alt="forks"/>
-  </a>
-</p>
+<br/>
 
-<p align="center">
-  <a href="https://github.com/tech-sugata/PORTFOLIO">
-    <img src="https://img.shields.io/badge/⭐ Star%20This%20Repo-Support%20the%20Project-ffdd00?style=for-the-badge&logo=github">
-  </a>
-</p>
+<!-- ═══════════════════════ HIGHLIGHTS ═══════════════════════ -->
+## ⚡ &nbsp;Highlights
 
-<p align="center">
-  💙 If you like this project, give it a ⭐ and support the journey!
-</p>
-
-<p align="center">
-  🚀 Your support helps in building more innovative and impactful projects!
-</p>
-
----
-
-<!-- Visitor Count -->
 <div align="center">
 
-[![](https://visitcount.itsvg.in/api?id=TECH-SUGATA&label=Profile%20Views&icon=5&color=12)](https://visitcount.itsvg.in)
+| 🎯 **87.75%** | 🗂️ **8,732** | 🚀 **13** | 🏅 **3** |
+|:---:|:---:|:---:|:---:|
+| Accuracy of the UrbanNoiseNet audio classifier | Audio samples used to train it from scratch | Projects built across AI, Web and IoT | Microsoft certifications and badges |
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════════ TECH STACK ═══════════════════════ -->
+## 🧰 &nbsp;Technical Skills
+
+<table>
+<tr>
+<td width="170"><b>Languages</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=python,js,java,c,postgres" /><br/>
+<sub>Python · JavaScript · Java · C · SQL</sub>
+</td>
+</tr>
+<tr>
+<td><b>Frontend</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=react,threejs,html,css,tailwind,vite" /><br/>
+<sub>React.js · Three.js · HTML5 · CSS3 · Tailwind CSS</sub>
+</td>
+</tr>
+<tr>
+<td><b>Backend</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=nodejs,express,flask,fastapi,firebase,supabase" /><br/>
+<sub>Node.js · Express.js · Flask · FastAPI · REST APIs · Firebase · Supabase</sub>
+</td>
+</tr>
+<tr>
+<td><b>AI / ML</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=sklearn,pandas,numpy,opencv" /><br/>
+<sub>Scikit-learn · Pandas · NumPy · librosa · MediaPipe · LLaMA 3.3 · Gemini API · NLP · Computer Vision</sub>
+</td>
+</tr>
+<tr>
+<td><b>Databases</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,sqlite" /><br/>
+<sub>MongoDB Atlas · PostgreSQL · SQLite</sub>
+</td>
+</tr>
+<tr>
+<td><b>Cloud / Tools</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=git,github,vercel,postman" /><br/>
+<sub>Git · GitHub · Vercel · Render · Postman</sub>
+</td>
+</tr>
+<tr>
+<td><b>IoT</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=arduino,raspberrypi" /><br/>
+<sub>Arduino · ESP32 · Raspberry Pi · RFID · GSM · GPS Neo-6M</sub>
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- ═══════════════════════ PROJECTS ═══════════════════════ -->
+## 🚀 &nbsp;Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/TECH-SUGATA/UrbanNoiseNet"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=TECH-SUGATA&repo=UrbanNoiseNet&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&border_radius=12"/></a>
+<a href="https://github.com/TECH-SUGATA/SpaceAetherOS"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=TECH-SUGATA&repo=SpaceAetherOS&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&border_radius=12"/></a>
+<a href="https://github.com/TECH-SUGATA/AirCanvas-AI-Smart-Whiteboard"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=TECH-SUGATA&repo=AirCanvas-AI-Smart-Whiteboard&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&border_radius=12"/></a>
+<a href="https://github.com/TECH-SUGATA/hospital-management-arogya"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=TECH-SUGATA&repo=hospital-management-arogya&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&border_radius=12"/></a>
+
+</div>
+
+<br/>
+
+### 🧠 AI & Machine Learning
+
+| Project | Stack | What makes it different |
+|---|---|---|
+| **[UrbanNoiseNet](https://github.com/TECH-SUGATA/UrbanNoiseNet)** — Smart City Acoustic Intelligence | `Python` `FastAPI` `scikit-learn` `librosa` `React` `Render` `Vercel` | Identifies *what* causes urban noise, not just how loud it is. Random Forest trained from scratch on 8,732 UrbanSound8K samples (MFCC features), **87.75% accuracy**. Feeds a civic workflow: geofenced thresholds, auto e-challans, siren-triggered dispatch, public complaint portal. |
+| **[MediFind AI](https://github.com/TECH-SUGATA/hospital-management-arogya)** — Emergency Hospital Recommender | `FastAPI` `scikit-learn` `NLTK` `PostgreSQL` `React` `Leaflet` | Ranks hospitals on **8 weighted signals** (rating, review sentiment, distance, specialization, cost, bed availability, wait time, trust score). Isolation Forest filters fake reviews; a triage classifier picks the specialization first. |
+| **[AirCanvas AI](https://github.com/TECH-SUGATA/AirCanvas-AI-Smart-Whiteboard)** — Gesture-Controlled Whiteboard | `Python` `OpenCV` `MediaPipe` `NumPy` | Touch-free HCI: one hand draws with fingertip motion, the other drives the toolbar with pinch gestures. Pen, eraser, undo and save, all by hand movement. |
+| **[Emotional Aware Machine](https://github.com/TECH-SUGATA/Emotional-Aare-Machine-EAM)** | `face-api.js` `Gemini 2.5 Flash` `Node.js` `YouTube API` | On-device (private) emotion recognition drives a Hindi / English / Hinglish reply, live music curation, and a UI that re-themes to your mood. |
+| **[StudyBuddy.AI](https://github.com/Souvagya06/studybuddy-ai)** `PUBLISHED` | `LLaMA 3.3 70B (Groq)` `Google Classroom API` `Node.js` `Tailwind` | Pulls real assignments from Google Classroom, predicts difficulty with reasoning, and adds a syllabus-aware doubt-solving chat over uploaded PDFs/DOCXs. Led frontend and UI/UX in a 5-person team. |
+| **[CrisisConnect AI](https://github.com/Bikram-pal/crisis-connect-ai)** — Emergency Response | `Node.js` `Express` `GPT-4o-mini` `Geoapify` `Web Speech API` | Turns a typed or spoken emergency into a LOW / MEDIUM / CRITICAL severity plan and finds the nearest hospitals with Haversine ranking and one-click navigation. |
+| **[AI Plant Therapist](https://github.com/TECH-SUGATA/Ai-plant-therapist-Health-Monitoring)** | `React` `TypeScript` `Vite` `Tailwind` `Supabase` | AI-driven plant diagnosis with ongoing health monitoring. |
+
+### 🌐 Full-Stack & Data Platforms
+
+| Project | Stack | What makes it different |
+|---|---|---|
+| **[AetherOS](https://github.com/TECH-SUGATA/SpaceAetherOS)** — Real-Time Space Dashboard | `React` `Three.js` `Node.js` `Socket.io` `MongoDB` `Gemini API` | Unifies 5+ live sources (NASA, SpaceX, ISS, asteroids, news) into one mission-control UI. Socket.io streams ISS position every 5 seconds, with a Gemini-powered "AI Oracle" on top. |
+| **[StockVision](https://github.com/TECH-SUGATA/live-stock-market-dashboard)** — Financial Intelligence | `React` `Vite` `Recharts` `Flask` `SQLAlchemy` `JWT` `Finnhub` `CoinGecko` | JWT-secured dashboard for equities and crypto. A custom weighted model (momentum, volume trend, volatility) produces Buy / Hold / Sell signals with confidence scores, no third-party ML API. |
+| **[Nimbus](https://github.com/TECH-SUGATA/WEATHER-APP)** — Weather Intelligence | `JavaScript` `OpenWeather API` | AQI, sunrise/sunset, wind, humidity, pressure, visibility and cloud cover in one glassmorphic view. |
+| **[VelvetBites](https://github.com/TECH-SUGATA/Resturent-web)** — Premium Food Ordering UI | `HTML5` `CSS3` `JavaScript` | Hand-crafted animation and dark premium UI with no framework overhead. |
+
+### 🔌 IoT + Software
+
+| Project | Stack | What makes it different |
+|---|---|---|
+| **[Smart RFID Attendance](https://github.com/Souvagya06/smart-rfid-attendance-system)** | `ESP32` `RFID RC522` `React` `Node.js` `Express` `SQLite` `bcrypt` | Live hardware-to-database pipeline: a card scan writes to a SQLite-backed API. Role-based dashboards with date filters and Excel export. Built in a 5-person team. |
+
+<br/>
+
+<!-- ═══════════════════════ GRAPHS ═══════════════════════ -->
+## 📊 &nbsp;GitHub Analytics
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=TECH-SUGATA&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=F2C94C&text_color=C9D1D9&count_private=true&include_all_commits=true&border_radius=12" alt="GitHub Stats"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TECH-SUGATA&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8&border_radius=12" alt="Top Languages"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=TECH-SUGATA&theme=dark&background=0D1117&border=30363D&ring=58A6FF&fire=F2C94C&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E&sideNums=58A6FF&currStreakNum=58A6FF&border_radius=12&card_width=650" alt="Streak"/>
+
+</div>
+
+<br/>
+
+### 🧊 3D Contribution Graph
+
+<div align="center">
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Contribution Graph"/>
+</div>
+
+<!-- Generated by the "profile-3d-contrib.yml" GitHub Action (see setup steps). -->
+
+<br/>
+
+### 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TECH-SUGATA/TECH-SUGATA/output/github-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TECH-SUGATA/TECH-SUGATA/output/github-snake.svg"/>
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/TECH-SUGATA/TECH-SUGATA/output/github-snake-dark.svg"/>
+  </picture>
+</div>
+
+<br/>
+
+<!-- ═══════════════════════ CERTIFICATIONS ═══════════════════════ -->
+## 🏅 &nbsp;Certifications
+
+<div align="center">
+
+<a href="https://learn.microsoft.com/api/credentials/share/en-gb/SUGATANAYAK-5954/32B7E6D83020134A"><img src="https://img.shields.io/badge/Microsoft%20Certified-Azure%20AI%20Apps%20%26%20Agents%20Developer%20Associate-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white&labelColor=161B22"/></a>
+<br/>
+<a href="https://learn.microsoft.com/api/credentials/share/en-gb/SUGATANAYAK-5954/285CDD12BF05123E"><img src="https://img.shields.io/badge/Microsoft%20Applied%20Skills-Generate%20Reports%20with%20AI%20Research%20Agents-0078D4?style=for-the-badge&logo=microsoft&logoColor=white&labelColor=161B22"/></a>
+<br/>
+<a href="https://www.credly.com/badges/9f6c2b78-a5a1-4dd4-b637-8e9fb990a793/public_url"><img src="https://img.shields.io/badge/Credly-AI%20Skills%20Fest%202026%20%E2%80%94%20Microsoft-FF6B00?style=for-the-badge&logo=credly&logoColor=white&labelColor=161B22"/></a>
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════════ FOOTER ═══════════════════════ -->
+## 🤝 &nbsp;Let's Build Something Great
+
+<div align="center">
+
+**Open to collaboration on innovative projects, hackathons and impactful tech solutions.**
+
+<a href="mailto:sugatanayak65@gmail.com"><img src="https://img.shields.io/badge/📩%20Email%20Me-58A6FF?style=for-the-badge&labelColor=161B22"/></a>
+<a href="https://linkedin.com/in/sugata-nayak-343099322"><img src="https://img.shields.io/badge/💼%20Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&labelColor=161B22"/></a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=TECH-SUGATA&label=Profile%20Views&color=667eea&style=for-the-badge&labelColor=161B22" alt="Profile views"/>
+<a href="https://github.com/TECH-SUGATA?tab=followers"><img src="https://img.shields.io/github/followers/TECH-SUGATA?style=for-the-badge&color=58A6FF&labelColor=161B22"/></a>
+<a href="https://github.com/TECH-SUGATA/PORTFOLIO"><img src="https://img.shields.io/github/stars/TECH-SUGATA/PORTFOLIO?style=for-the-badge&color=F2C94C&labelColor=161B22"/></a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:1f2a44,100:0D1117&height=120&section=footer" width="100%" alt="footer"/>
 
 </div>
