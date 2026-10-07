@@ -21,7 +21,7 @@
 
 <a href="https://linkedin.com/in/sugata-nayak-343099322"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:sugatanayak65@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://github.com/TECH-SUGATA/PORTFOLIO"><img src="https://img.shields.io/badge/Portfolio-667eea?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+<a href="https://github.com/TECH-SUGATA/PORTFOLIO"><img src="[https://img.shields.io/badge/Portfolio-667eea](https://tech-sugata.github.io/PORTFOLIO/)?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
 <a href="https://wa.me/919883131330"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 <a href="https://instagram.com/nayak_sugata"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 <a href="https://mastodon.social/@SugataNayak"><img src="https://img.shields.io/badge/Mastodon-6364FF?style=for-the-badge&logo=mastodon&logoColor=white"/></a>
