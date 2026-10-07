@@ -116,7 +116,7 @@ open_to:     Collaboration · Hackathons · Impactful tech solutions
 <tr>
 <td><b>Cloud / Tools</b></td>
 <td>
-<img src="https://skillicons.dev/icons?i=git,github,vercel,render,postman" /><br/>
+<img src="https://skillicons.dev/icons?i=git,github,vercel,postman" /><br/>
 <sub>Git · GitHub · Vercel · Render · Postman</sub>
 </td>
 </tr>
