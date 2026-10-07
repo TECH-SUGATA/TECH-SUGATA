@@ -26,7 +26,7 @@
 <a href="https://instagram.com/nayak_sugata"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 <a href="https://mastodon.social/@SugataNayak"><img src="https://img.shields.io/badge/Mastodon-6364FF?style=for-the-badge&logo=mastodon&logoColor=white"/></a>
 <a href="https://g.dev/devsugata"><img src="https://img.shields.io/badge/Google%20Dev-4285F4?style=for-the-badge&logo=google&logoColor=white"/></a>
-<!-- Add your LeetCode: <a href="https://leetcode.com/u/YOUR_USERNAME"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a> -->
+<a href="https://leetcode.com/u/Sugata-Nayak/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
 
 </div>
 
@@ -59,7 +59,7 @@ open_to:     Collaboration · Hackathons · Impactful tech solutions
 
 <div align="center">
 
-| 🎯 **87.75%** | 🗂️ **8,732** | 🚀 **13** | 🏅 **3** |
+| 🎯 **87.75%** | 🗂️ **8,732** | 🚀 **15** | 🏅 **3** |
 |:---:|:---:|:---:|:---:|
 | Accuracy of the UrbanNoiseNet audio classifier | Audio samples used to train it from scratch | Projects built across AI, Web and IoT | Microsoft certifications and badges |
 
@@ -147,6 +147,8 @@ open_to:     Collaboration · Hackathons · Impactful tech solutions
 <a href="https://github.com/TECH-SUGATA/SpaceAetherOS"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=TECH-SUGATA&repo=SpaceAetherOS&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&border_radius=12"/></a>
 <a href="https://github.com/TECH-SUGATA/AirCanvas-AI-Smart-Whiteboard"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=TECH-SUGATA&repo=AirCanvas-AI-Smart-Whiteboard&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&border_radius=12"/></a>
 <a href="https://github.com/TECH-SUGATA/hospital-management-arogya"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=TECH-SUGATA&repo=hospital-management-arogya&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&border_radius=12"/></a>
+<a href="https://github.com/TECH-SUGATA/aurevia"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=TECH-SUGATA&repo=aurevia&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&border_radius=12"/></a>
+<a href="https://github.com/TECH-SUGATA/phisguard-z"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=TECH-SUGATA&repo=phisguard-z&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&border_radius=12"/></a>
 
 </div>
 
@@ -162,7 +164,9 @@ open_to:     Collaboration · Hackathons · Impactful tech solutions
 | **[Emotional Aware Machine](https://github.com/TECH-SUGATA/Emotional-Aare-Machine-EAM)** | `face-api.js` `Gemini 2.5 Flash` `Node.js` `YouTube API` | On-device (private) emotion recognition drives a Hindi / English / Hinglish reply, live music curation, and a UI that re-themes to your mood. |
 | **[StudyBuddy.AI](https://github.com/Souvagya06/studybuddy-ai)** `PUBLISHED` | `LLaMA 3.3 70B (Groq)` `Google Classroom API` `Node.js` `Tailwind` | Pulls real assignments from Google Classroom, predicts difficulty with reasoning, and adds a syllabus-aware doubt-solving chat over uploaded PDFs/DOCXs. Led frontend and UI/UX in a 5-person team. |
 | **[CrisisConnect AI](https://github.com/Bikram-pal/crisis-connect-ai)** — Emergency Response | `Node.js` `Express` `GPT-4o-mini` `Geoapify` `Web Speech API` | Turns a typed or spoken emergency into a LOW / MEDIUM / CRITICAL severity plan and finds the nearest hospitals with Haversine ranking and one-click navigation. |
-| **[AI Plant Therapist](https://github.com/TECH-SUGATA/Ai-plant-therapist-Health-Monitoring)** | `React` `TypeScript` `Vite` `Tailwind` `Supabase` | AI-driven plant diagnosis with ongoing health monitoring. |
+| **[AI Plant Therapist](https://github.com/TECH-SUGATA/Ai-plant-therapist-Health-Monitoring)** | `React` `TypeScript` `Vite` `Tailwind` `Supabase` | AI-driven plant diagnosis with ongoing health monitoring. Evolved into [Aurevia](https://github.com/TECH-SUGATA/aurevia) (see IoT + Software). |
+| **[PHISGUARD-Z](https://github.com/TECH-SUGATA/phisguard-z)** — Autonomous Phishing & Zero-Day Interceptor `LIVE` | `React 19` `TypeScript` `Vite` `Node.js` `Express` `Gemini AI` `Tailwind` `Vercel` `Render` | SOC-style cyber-defence platform: deep URL inspection (Shannon entropy, Punycode / homoglyph spoofing), email & BEC analysis, zero-day-style anomaly detection and AI-assisted forensics, with quarantine, threat-pattern learning and audit-report workflows. [Live demo](https://phisguard-z.vercel.app/) |
+| **[Talentra](https://github.com/Souvagya06/talentra-unbiased-hiring)** — Unbiased Hiring Assistant `LIVE` | `FastAPI` `Gemini` `Groq Whisper` `Supabase` `MoviePy` `Tailwind` `Vercel` | End-to-end AI hiring pipeline: resume matching against a job description, offline (audio) and online (video) interview evaluation via Whisper speech-to-text and Gemini, scored technical and communication reports stored in Supabase. Built in a 4-person team. [Live demo](https://talentra-unbiased-hiring-qh1s.vercel.app/) |
 
 ### 🌐 Full-Stack & Data Platforms
 
@@ -178,6 +182,7 @@ open_to:     Collaboration · Hackathons · Impactful tech solutions
 | Project | Stack | What makes it different |
 |---|---|---|
 | **[Smart RFID Attendance](https://github.com/Souvagya06/smart-rfid-attendance-system)** | `ESP32` `RFID RC522` `React` `Node.js` `Express` `SQLite` `bcrypt` | Live hardware-to-database pipeline: a card scan writes to a SQLite-backed API. Role-based dashboards with date filters and Excel export. Built in a 5-person team. |
+| **[Aurevia](https://github.com/TECH-SUGATA/aurevia)** — AI Plant Therapist `LIVE` | `Raspberry Pi` `Python` `Node.js` `Express` `SQLite` `PWA` `Docker` `Caddy` `Vercel` | Multi-user plant-care platform: anyone creates an account, connects their own Raspberry Pi with one command, and monitors moisture, pH and temperature from any device. Rule-based auto-watering with pump control, AI leaf diagnosis, scrypt-hashed accounts and per-device tokens. [Live demo](https://aurevia-swart-mu.vercel.app) |
 
 <br/>
 
@@ -241,6 +246,31 @@ open_to:     Collaboration · Hackathons · Impactful tech solutions
 <!-- ✨ premium divider -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:58A6FF,100:0D1117&height=2" width="100%" alt="divider"/>
+</div>
+
+<br/>
+
+<!-- ═══════════════════════ PORTFOLIO ═══════════════════════ -->
+## 💼 &nbsp;Portfolio
+
+<div align="center">
+
+<a href="https://tech-sugata.github.io/PORTFOLIO/">
+  <img src="https://img.shields.io/badge/%F0%9F%8C%90%20Visit%20My%20Live%20Portfolio-tech--sugata.github.io%2FPORTFOLIO-667eea?style=for-the-badge&labelColor=161B22"/>
+</a>
+<br/>
+<a href="https://tech-sugata.github.io/PORTFOLIO/#projects"><img src="https://img.shields.io/badge/Projects-58A6FF?style=for-the-badge&labelColor=161B22"/></a>
+<a href="https://tech-sugata.github.io/PORTFOLIO/#certs"><img src="https://img.shields.io/badge/Credentials-F2C94C?style=for-the-badge&labelColor=161B22"/></a>
+<a href="https://tech-sugata.github.io/PORTFOLIO/#contact"><img src="https://img.shields.io/badge/Contact-2EA043?style=for-the-badge&labelColor=161B22"/></a>
+<a href="https://github.com/TECH-SUGATA/PORTFOLIO"><img src="https://img.shields.io/badge/Source%20Code-0D1117?style=for-the-badge&logo=github&logoColor=white&labelColor=161B22"/></a>
+
+</div>
+
+<br/>
+
+<!-- ✨ premium divider -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:667eea,100:0D1117&height=2" width="100%" alt="divider"/>
 </div>
 
 <br/>
