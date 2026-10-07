@@ -272,6 +272,47 @@ open_to:     Collaboration · Hackathons · Impactful tech solutions
 
 <div align="center">
 
+
+
+## ⭐ Support
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=tech-sugata&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="profile views"/>
+</p>
+
+<p align="center">
+  <a href="https://github.com/tech-sugata/PORTFOLIO">
+    <img src="https://img.shields.io/github/stars/tech-sugata/PORTFOLIO?style=for-the-badge&color=yellow" alt="stars"/>
+  </a>
+  <a href="https://github.com/tech-sugata/PORTFOLIO/fork">
+    <img src="https://img.shields.io/github/forks/tech-sugata/PORTFOLIO?style=for-the-badge&color=blue" alt="forks"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/tech-sugata/PORTFOLIO">
+    <img src="https://img.shields.io/badge/⭐ Star%20This%20Repo-Support%20the%20Project-ffdd00?style=for-the-badge&logo=github">
+  </a>
+</p>
+
+<p align="center">
+  💙 If you like this project, give it a ⭐ and support the journey!
+</p>
+
+<p align="center">
+  🚀 Your support helps in building more innovative and impactful projects!
+</p>
+
+---
+
+<!-- Visitor Count -->
+<div align="center">
+
+[![](https://visitcount.itsvg.in/api?id=TECH-SUGATA&label=Profile%20Views&icon=5&color=12)](https://visitcount.itsvg.in)
+
+</div>
+
+
 **Open to collaboration on innovative projects, hackathons and impactful tech solutions.**
 
 <a href="mailto:sugatanayak65@gmail.com"><img src="https://img.shields.io/badge/📩%20Email%20Me-58A6FF?style=for-the-badge&labelColor=161B22"/></a>
